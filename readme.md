@@ -2,6 +2,8 @@
 
 ## Berikut adalah 20 soal latihan coding logic:
 
+---
+
 ### Level 1
 
 1. Buatlah program yang menerima input sebuah bilangan bulat `n`, dan menampilkan deret fibonacci sebanyak `n` bilangan.
@@ -25,6 +27,8 @@
 19. Buatlah program yang menerima input sebuah bilangan bulat `x`, dan mengeluarkan deret bilangan `triangular` sebanyak `x` bilangan.
 20. Buatlah program yang menerima input sebuah bilangan bulat `n`, dan menampilkan `segitiga setengah` sebanyak `n` baris.
 
+---
+
 ### Level 2
 
 1. Buatlah program untuk menentukan apakah suatu tahun merupakan tahun `kabisat` atau bukan.
@@ -37,6 +41,8 @@
 8. Buatlah program untuk menentukan suatu bilangan `ada dalam array` atau `tidak`.
 9. Buatlah program untuk menentukan suatu string memiliki `huruf vokal` atau `tidak`.
 10. Buatlah program untuk menentukan suatu string memiliki `angka` atau `tidak`.
+
+---
 
 ### Level 3
 
